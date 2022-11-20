@@ -9,6 +9,8 @@
 * Desenvolvimento de testes unitários.
 
 ---
+![uml image](lab7-uml.png)
+---
 
 # EN
 
